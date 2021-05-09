@@ -38,7 +38,8 @@ So now make your Work From Home more interesting take some rest - > on your TV -
 </table>
 
 ![Idea of Projector](https://j.gifs.com/798Gv1.gif)
-Credit - Howtomechatronics.com 
+
+Credit - Howtomechatronics.com[https://howtomechatronics.com/] 
 
 ### :electric_plug: Circuit
 
@@ -50,7 +51,7 @@ Credit - Howtomechatronics.com
 
 ![Remote_with_Accelerometer](https://i.imgur.com/3UdHUOC.jpeg)
 
-One can find the PCB designs [here]()
+One can find the PCB designs [here](https://github.com/robustTechie/magic-vIew/tree/main/assets)
 ### :page_with_curl: App Documentation
 
 For making it more accessible we will add the support to control this dual-axis projector using mobile also, this would be a cross platform app that will connect with the dual-axis device over an HTTP connection using NodeMCU and the app with the help of [http](https://pub.dev/packages/http) plugin of Flutter. 
@@ -64,14 +65,14 @@ The information(frequent projection location, frequently used projectors, x, and
 #### :camera: Screenshots
 <table>
      <tr>
-          <td><img height="400" src="https://i.imgur.com/jtvkjJW.png" /><br /><center><b>Splash Screen</b></center></td>
-          <td><img height="400" src="https://i.imgur.com/DHQQkrJ.png" /><br /><center><b>All Projectors</b></center></td>
-          <td><img height="400" src="https://i.imgur.com/sUw2dwk.png" /><br /><center><b>Control Projector</b></center></td>
+          <td><img height="500" src="https://i.imgur.com/jtvkjJW.png" /><br /><center><b>Splash Screen</b></center></td>
+          <td><img height="500" src="https://i.imgur.com/DHQQkrJ.png" /><br /><center><b>All Projectors</b></center></td>
+          <td><img height="500" src="https://i.imgur.com/sUw2dwk.png" /><br /><center><b>Control Projector</b></center></td>
      </tr>
      <tr>
-          <td><img height="400" src="https://i.imgur.com/AB6L6Qw.png" /><br /><center><b>Save projection</b></center></td>
-          <td><img height="400" src="https://i.imgur.com/Wlg0Rgb.png" /><br /><center><b>Connect Projector</b></center></td>
-          <td><img height="400" src="https://i.imgur.com/oziXd7W.gif" /><br /><center><b>Mockup design</b></center></td>
+          <td><img height="500" src="https://i.imgur.com/AB6L6Qw.png" /><br /><center><b>Save projection</b></center></td>
+          <td><img height="500" src="https://i.imgur.com/Wlg0Rgb.png" /><br /><center><b>Connect Projector</b></center></td>
+          <td><img height="500" src="https://github.com/robustTechie/magic-vIew/blob/main/assets/app.gif?raw=true" /><br /><center><b>Mockup design</b></center></td>
      </tr>
 
 </table>
