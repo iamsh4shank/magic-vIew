@@ -52,7 +52,7 @@ MagicView is a smart visual solution that helps us present and watch stuff in a 
      <tr>
           <td><img height="500" src="https://i.imgur.com/uXBRgiy.jpg" /><br /><center><b>Homepage</b></center></td>
           <td><img height="500" src="https://i.imgur.com/DDZxQbT.png" /><br /><center><b>Add Projectors</b></center></td>
-          <td><img height="500" src="https://i.imgur.com/kxLdJkO.png" /><br /><center><b>Configure Projector/Remote</b></center></td>
+          <td><img height="500" src="https://i.imgur.com/kxLdJkO.png" /><br /><center><b>Configure Projector</b></center></td>
           <td><img height="500" src="https://i.imgur.com/raIRgoK.png" /><br /><center><b>Connect and Disconnect</b></center></td>
      </tr>
 </table>
