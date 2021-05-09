@@ -21,10 +21,11 @@ MagicView is a smart visual solution that helps us present and watch stuff in a 
 
 <table>
      <tr>
-          <td><img height="350" src="https://i.imgur.com/OD9wQQM.jpg" /><br /><center><b>Dashboard</b></center></td>
-          <td><img height="350" src="https://i.imgur.com/NbdNYyG.jpg" /><br /><center><b>Add Medicine</b></center></td>
+          <td><img height="350" src="https://i.imgur.com/OD9wQQM.jpg" /><br /><center><b>Remote Layout</b></center></td>
+          <td><img height="350" src="https://i.imgur.com/NbdNYyG.jpg" /><br /><center><b>Projector MVP Design</b></center></td>
      </tr>
 </table>
+
 
 ![Idea of Projector](https://gifs.com/gif/798Gv1)
 
@@ -61,15 +62,15 @@ MagicView is a smart visual solution that helps us present and watch stuff in a 
 
 ### :question: Work Flow
 
-
 <table>
      <tr>
-          <td><img height="300" src="https://user-images.githubusercontent.com/52847415/115989608-cc113500-a5dc-11eb-9457-585ecc21492d.png" /><br /><center><b>Whole Project workflow</b></center></td>
+          <td><img height="400" src="https://i.imgur.com/IQMBz4i.png" /><br /><center><b>Project Overview</b></center></td>
      </tr>
      <tr>
-     <td><img height="280" src="https://i.imgur.com/AWRjLMh.png" /><br /><center><b>Android App workflow</b></center></td>
+     <td><img height="400" src="https://i.imgur.com/Fbrrjxk.png" /><br /><center><b> Ecosystem workflow</b></center></td>
      </tr>
 </table>
+
 
 ## :wrench: Tech stack
 * Firebase
