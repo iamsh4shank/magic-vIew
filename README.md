@@ -39,7 +39,7 @@ So now make your Work From Home more interesting take some rest - > on your TV -
 
 ![Idea of Projector](https://j.gifs.com/798Gv1.gif)
 
-Credit - Howtomechatronics.com[https://howtomechatronics.com/] 
+Credit - [Howtomechatronics.com](https://howtomechatronics.com/)
 
 ### :electric_plug: Circuit
 
