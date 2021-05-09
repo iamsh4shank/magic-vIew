@@ -47,6 +47,9 @@ Credit - [Howtomechatronics.com](https://howtomechatronics.com/)
 
 ![AxisProjector](https://i.imgur.com/BEw65xY.png)
 
+PCB design
+
+![PCBDualAxs](https://github.com/robustTechie/magic-vIew/blob/main/assets/pcb_dual_axis.jpg?raw=true)
 #### Magic Remote with Accelerometer Sensor
 
 ![Remote_with_Accelerometer](https://i.imgur.com/3UdHUOC.jpeg)
